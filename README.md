@@ -7,7 +7,7 @@
 # Навыки.
 - Python, SQL
 - Анализ данных, визуализация, очистка данных, написание запросов, создание дашбордов
-- pandas, numpy, matplotlib
+- pandas, numpy, matplotlib, seaborn
 - Superset, DataLens
 - Jupyter Notebook, DBeaver, GitHub
 
