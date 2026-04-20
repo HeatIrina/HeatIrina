@@ -6,9 +6,9 @@
 
 # Навыки.
 - Python, SQL
-- Анализ данных, bi аналитика
+- Анализ данных, визуализация, очистка данных, написание запросов, создание дашбордов
 - pandas, numpy, matplotlib
 - Superset, DataLens
-- Jupyter Notebook, GitHub
+- Jupyter Notebook, DBeaver, GitHub
 
 # Проекты.
