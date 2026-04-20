@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я Ирина.
 
-<!--
-**HeatIrina/HeatIrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аналитик данных/BI аналитик
 
-Here are some ideas to get you started:
+Аналитик данных с инженерным складом ума и опытом работы с цифрами в строительстве. Пришла в аналитику из сметного дела: там я искала расхождения в данных, анализировала цены и обосновывала отклонения — по сути, делала аналитику вручную. Опыт сметчика научил меня вниманию к деталям, работе с большими объёмами таблиц и системному мышлению. Сейчас строю дашборды, пишу запросы, визуализирую метрики.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Навыки.
+- Python, SQL
+- Анализ данных, bi аналитика
+- pandas, numpy, matplotlib
+- Superset, DataLens
+- Jupyter Notebook, GitHub
+
+# Проекты.
