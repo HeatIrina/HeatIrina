@@ -13,7 +13,7 @@
 
 # Проекты.
 
-[Исследование стартапов](https://github.com/HeatIrina/Startup_Research.git)
-[Маркетплейс «МаркетПро»](https://github.com/HeatIrina/Marketplace_MarketPro.git)
-[Продажи медицинских пробирок](https://github.com/HeatIrina/Medical_test_tubes.git)
-[Аналитика игрового рынка](https://github.com/HeatIrina/Game_market_Analytics.git)
+[Исследование стартапов](https://github.com/HeatIrina/Startup_Research.git)  
+[Маркетплейс «МаркетПро»](https://github.com/HeatIrina/Marketplace_MarketPro.git)  
+[Продажи медицинских пробирок](https://github.com/HeatIrina/Medical_test_tubes.git)  
+[Аналитика игрового рынка](https://github.com/HeatIrina/Game_market_Analytics.git)  
