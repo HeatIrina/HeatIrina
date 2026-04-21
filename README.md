@@ -5,10 +5,15 @@
 Аналитик данных с инженерным складом ума и опытом работы с цифрами в строительстве. Пришла в аналитику из сметного дела: там я искала расхождения в данных, анализировала цены и обосновывала отклонения — по сути, делала аналитику вручную. Опыт сметчика научил меня вниманию к деталям, работе с большими объёмами таблиц и системному мышлению. Сейчас строю дашборды, пишу запросы, визуализирую метрики.
 
 # Навыки.
-- Python, SQL
-- Анализ данных, визуализация, очистка данных, написание запросов, создание дашбордов
-- pandas, numpy, matplotlib, seaborn
-- Superset, DataLens
-- Jupyter Notebook, DBeaver, GitHub
+- Python, SQL.
+- Анализ данных, визуализация, очистка данных, написание запросов, создание дашбордов.
+- pandas, numpy, matplotlib, seaborn.
+- Apache Superset, Yandex DataLens.
+- Jupyter Notebook, DBeaver, GitHub.
 
 # Проекты.
+
+[Исследование стартапов](https://github.com/HeatIrina/Startup_Research.git)
+[Маркетплейс «МаркетПро»](https://github.com/HeatIrina/Marketplace_MarketPro.git)
+[Продажи медицинских пробирок](https://github.com/HeatIrina/Medical_test_tubes.git)
+[Аналитика игрового рынка](https://github.com/HeatIrina/Game_market_Analytics.git)
